@@ -1,11 +1,12 @@
 body{
     height: 100vh;
     width: 100ww;
-    background: rgb(249,171,171);
-    background: linear-gradient(0deg, rgba(249,171,171,1) 0%, rgba(111,45,253,1) 100%);
+    background: rgb(0,252,255);
+    background: linear-gradient(0deg, rgba(0,252,255,1) 0%, rgba(238,166,238,1) 100%);
 }
 
 .testecss{
     size: 500%;
-    color: white
+    color: white;
+    justify-content: center;
 }
