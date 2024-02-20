@@ -14,5 +14,5 @@ body{
 .teste1{
     justify-content: center;
     display: flex;
-    padding: 0 50px;
+    padding: 100px 100px;
 }
