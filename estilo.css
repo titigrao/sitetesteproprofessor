@@ -10,3 +10,8 @@ body{
     display: flex;
     color: white;
 }
+
+.teste1{
+    justify-content: center;
+    display: flex;
+}
