@@ -1,1 +1,10 @@
-alert("claudio é legal")
+function mudarCorDoTexto(
+    alert("claudio é legal")
+)
+
+document.querySelector("#p1")
+
+
+
+
+
