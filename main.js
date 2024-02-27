@@ -9,6 +9,13 @@ function mudarFundoDoTexto(){
     document.querySelector("#textolegal").style.background= "pink"
 }
 
+function alterarTexto(){
+    textoForm =  document.querySelector ("#textinput").value
+
+   
+    document.querySelector ("#texto2").innerHTML = "banana não-fugitiva"
+}
+
 
 
 
