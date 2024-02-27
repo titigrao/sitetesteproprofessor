@@ -6,7 +6,7 @@ function mudarCorDoTexto(){
 function mudarFundoDoTexto(){
 
 
-    document.querySelector("#textolegal").background= "pink"
+    document.querySelector("#textolegal").style.background= "pink"
 }
 
 
