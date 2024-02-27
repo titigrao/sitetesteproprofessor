@@ -1,6 +1,6 @@
 function mudarCorDoTexto(){
 
-    document.querySelector("#textolegal").style.color= "red"
+    document.querySelector("#textolegal").style.color= "purple"
 }
 
 function mudarFundoDoTexto(){
