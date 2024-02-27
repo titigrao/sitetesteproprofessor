@@ -10,6 +10,8 @@ function mudarFundoDoTexto(){
 
 document.querySelector("#p1")
 
+document.querySelector("#p2")
+
 
 
 
