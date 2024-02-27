@@ -13,7 +13,7 @@ function alterarTexto(){
     textoForm =  document.querySelector ("#textinput").value
 
    
-    document.querySelector ("#texto2").innerHTML = "banana não-fugitiva"
+    document.querySelector ("#texto2").innerHTML = textoForm 
 }
 
 
