@@ -17,3 +17,8 @@ body{
     justify-content: center;
 }
 
+.alinhamento{
+    margin-left: 50px;
+    display: flex;
+    justify-content: center;
+}
